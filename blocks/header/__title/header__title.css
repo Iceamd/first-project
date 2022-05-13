@@ -1,0 +1,11 @@
+.header__title{
+  display: flex;
+  align-items: center;
+  width:730px;
+  margin-left: 64px;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 102px;
+  line-height: 96px;
+  color: #000000;
+}
